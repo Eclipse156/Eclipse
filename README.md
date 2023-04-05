@@ -4,4 +4,4 @@ Open minecraft education and create a new world, open code builder and select ma
 Type "Make Door" in chat to create the door.
 Type "Break" in chat to open the door.
 Type "Place" in chat to close the door.
-NOTE: If doesn't work try turning your agent.
+NOTE: If it doesn't work try turning your agent.
